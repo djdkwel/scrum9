@@ -1,0 +1,7 @@
+{
+  "name": "scrum9",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
